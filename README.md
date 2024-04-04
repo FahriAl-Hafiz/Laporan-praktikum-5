@@ -34,14 +34,14 @@ bersangkutan.
 
 c. Jalankan instruksi subtitute user, kemudian keluar dengan perintah exit sebagai berikut:
 
-    $ su mahasiswa 
+    $ su username 
     $ exit
 
 ![image](https://github.com/FahriAl-Hafiz/Laporan-praktikum-5-SistemOperasi/assets/126375451/0e2662ef-ed51-47bb-8bce-ba21dc850570)
 
 kemudian gunakan opsi – sebagai berikut :
     
-    $ su – mahasiswa
+    $ su – username
     $ exit
 
 ![image](https://github.com/FahriAl-Hafiz/Laporan-praktikum-5-SistemOperasi/assets/126375451/24d83d8e-63bb-45cf-81f3-ebe7922d85e2)
@@ -67,7 +67,7 @@ b. Eksperimen hasil PS1 :
 
 Edit file .bash_logout, tampilkan pesan dan tahan selama 5 detik, sebelum eksekusi logout
         
-        Echo “Terima kasih atas sesi yang diberikan”
+        Echo “Thankyou sir”
         Sleep 5
         clear
 
